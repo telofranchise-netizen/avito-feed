@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <Ads target="Avito.ru" formatVersion="3">
   <Ad>
     <Id>massazh-spiny-cvetnoy-20260729-v2</Id>
@@ -37,16 +37,16 @@
     <Address>Москва, Садовая-Самотёчная улица, 4</Address>
     <Price>2400</Price>
     <Images>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-v1/01-cover-offer.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-v1/02-first-visit.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-v1/03-result.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-v1/04-personal-program.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-v1/05-masters.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-v1/06-consultation.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-v1/07-natural-process.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-v1/08-interior-address.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-v1/09-interior-hours.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-v1/10-interior-detail.jpg"/>
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-v1/01-cover-offer.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-v1/02-first-visit.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-v1/03-result.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-v1/04-personal-program.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-v1/05-masters.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-v1/06-consultation.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-v1/07-natural-process.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-v1/08-interior-address.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-v1/09-interior-hours.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-v1/10-interior-detail.jpg" />
     </Images>
   </Ad>
   <Ad>
@@ -86,19 +86,18 @@
     <Address>Москва, Садовая-Самотёчная улица, 4</Address>
     <Price>1600</Price>
     <Images>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-cvetnoy-a-v3/01-01-shvz-cvetnoy-style-a-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-cvetnoy-a-v3/02-01-shvz-cvetnoy-style-a-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-cvetnoy-a-v3/03-01-shvz-cvetnoy-style-a-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-cvetnoy-a-v3/04-01-shvz-cvetnoy-style-a-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-cvetnoy-a-v3/05-01-shvz-cvetnoy-style-a-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-cvetnoy-a-v3/06-01-shvz-cvetnoy-style-a-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-cvetnoy-a-v3/07-01-shvz-cvetnoy-style-a-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-cvetnoy-a-v3/08-01-shvz-cvetnoy-style-a-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-cvetnoy-a-v3/09-01-shvz-cvetnoy-style-a-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-cvetnoy-a-v3/10-01-shvz-cvetnoy-style-a-v3.jpg"/>
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-cvetnoy-a-v3/01-01-shvz-cvetnoy-style-a-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-cvetnoy-a-v3/02-01-shvz-cvetnoy-style-a-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-cvetnoy-a-v3/03-01-shvz-cvetnoy-style-a-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-cvetnoy-a-v3/04-01-shvz-cvetnoy-style-a-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-cvetnoy-a-v3/05-01-shvz-cvetnoy-style-a-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-cvetnoy-a-v3/06-01-shvz-cvetnoy-style-a-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-cvetnoy-a-v3/07-01-shvz-cvetnoy-style-a-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-cvetnoy-a-v3/08-01-shvz-cvetnoy-style-a-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-cvetnoy-a-v3/09-01-shvz-cvetnoy-style-a-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-cvetnoy-a-v3/10-01-shvz-cvetnoy-style-a-v3.jpg" />
     </Images>
   </Ad>
-
   <Ad>
     <Id>shvz-ramenki-b-20260817-v1</Id>
     <Category>Предложение услуг</Category>
@@ -134,19 +133,18 @@
     <Address>Москва, Мичуринский проспект, 16</Address>
     <Price>1600</Price>
     <Images>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-ramenki-b-v3/01-02-shvz-ramenki-style-b-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-ramenki-b-v3/02-02-shvz-ramenki-style-b-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-ramenki-b-v3/03-02-shvz-ramenki-style-b-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-ramenki-b-v3/04-02-shvz-ramenki-style-b-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-ramenki-b-v3/05-02-shvz-ramenki-style-b-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-ramenki-b-v3/06-02-shvz-ramenki-style-b-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-ramenki-b-v3/07-02-shvz-ramenki-style-b-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-ramenki-b-v3/08-02-shvz-ramenki-style-b-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-ramenki-b-v3/09-02-shvz-ramenki-style-b-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-ramenki-b-v3/10-02-shvz-ramenki-style-b-v3.jpg"/>
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-ramenki-b-v3/01-02-shvz-ramenki-style-b-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-ramenki-b-v3/02-02-shvz-ramenki-style-b-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-ramenki-b-v3/03-02-shvz-ramenki-style-b-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-ramenki-b-v3/04-02-shvz-ramenki-style-b-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-ramenki-b-v3/05-02-shvz-ramenki-style-b-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-ramenki-b-v3/06-02-shvz-ramenki-style-b-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-ramenki-b-v3/07-02-shvz-ramenki-style-b-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-ramenki-b-v3/08-02-shvz-ramenki-style-b-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-ramenki-b-v3/09-02-shvz-ramenki-style-b-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-ramenki-b-v3/10-02-shvz-ramenki-style-b-v3.jpg" />
     </Images>
   </Ad>
-
   <Ad>
     <Id>shvz-studencheskaya-c-20260817-v1</Id>
     <Category>Предложение услуг</Category>
@@ -184,16 +182,16 @@
     <Address>Москва, Студенческая улица, 28, корпус 1</Address>
     <Price>1600</Price>
     <Images>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-studencheskaya-c-v3/01-03-shvz-studencheskaya-style-c-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-studencheskaya-c-v3/02-03-shvz-studencheskaya-style-c-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-studencheskaya-c-v3/03-03-shvz-studencheskaya-style-c-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-studencheskaya-c-v3/04-03-shvz-studencheskaya-style-c-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-studencheskaya-c-v3/05-03-shvz-studencheskaya-style-c-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-studencheskaya-c-v3/06-03-shvz-studencheskaya-style-c-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-studencheskaya-c-v3/07-03-shvz-studencheskaya-style-c-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-studencheskaya-c-v3/08-03-shvz-studencheskaya-style-c-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-studencheskaya-c-v3/09-03-shvz-studencheskaya-style-c-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-studencheskaya-c-v3/10-03-shvz-studencheskaya-style-c-v3.jpg"/>
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-studencheskaya-c-v3/01-03-shvz-studencheskaya-style-c-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-studencheskaya-c-v3/02-03-shvz-studencheskaya-style-c-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-studencheskaya-c-v3/03-03-shvz-studencheskaya-style-c-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-studencheskaya-c-v3/04-03-shvz-studencheskaya-style-c-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-studencheskaya-c-v3/05-03-shvz-studencheskaya-style-c-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-studencheskaya-c-v3/06-03-shvz-studencheskaya-style-c-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-studencheskaya-c-v3/07-03-shvz-studencheskaya-style-c-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-studencheskaya-c-v3/08-03-shvz-studencheskaya-style-c-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-studencheskaya-c-v3/09-03-shvz-studencheskaya-style-c-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/shvz-studencheskaya-c-v3/10-03-shvz-studencheskaya-style-c-v3.jpg" />
     </Images>
   </Ad>
   <Ad>
@@ -227,19 +225,18 @@
     <Address>Москва, Мичуринский проспект, 16</Address>
     <Price>2400</Price>
     <Images>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-ramenki-d-v3/01-01-massage-back-ramenki-style-d-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-ramenki-d-v3/02-01-massage-back-ramenki-style-d-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-ramenki-d-v3/03-01-massage-back-ramenki-style-d-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-ramenki-d-v3/04-01-massage-back-ramenki-style-d-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-ramenki-d-v3/05-01-massage-back-ramenki-style-d-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-ramenki-d-v3/06-01-massage-back-ramenki-style-d-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-ramenki-d-v3/07-01-massage-back-ramenki-style-d-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-ramenki-d-v3/08-01-massage-back-ramenki-style-d-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-ramenki-d-v3/09-01-massage-back-ramenki-style-d-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-ramenki-d-v3/10-01-massage-back-ramenki-style-d-v3.jpg"/>
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-ramenki-d-v3/01-01-massage-back-ramenki-style-d-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-ramenki-d-v3/02-01-massage-back-ramenki-style-d-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-ramenki-d-v3/03-01-massage-back-ramenki-style-d-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-ramenki-d-v3/04-01-massage-back-ramenki-style-d-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-ramenki-d-v3/05-01-massage-back-ramenki-style-d-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-ramenki-d-v3/06-01-massage-back-ramenki-style-d-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-ramenki-d-v3/07-01-massage-back-ramenki-style-d-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-ramenki-d-v3/08-01-massage-back-ramenki-style-d-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-ramenki-d-v3/09-01-massage-back-ramenki-style-d-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-ramenki-d-v3/10-01-massage-back-ramenki-style-d-v3.jpg" />
     </Images>
   </Ad>
-
   <Ad>
     <Id>massazh-spiny-studencheskaya-e-20260820-v1</Id>
     <Category>Предложение услуг</Category>
@@ -271,19 +268,18 @@
     <Address>Москва, Студенческая улица, 28, корпус 1</Address>
     <Price>2400</Price>
     <Images>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-studencheskaya-e-v3/01-02-massage-back-studencheskaya-style-e-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-studencheskaya-e-v3/02-02-massage-back-studencheskaya-style-e-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-studencheskaya-e-v3/03-02-massage-back-studencheskaya-style-e-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-studencheskaya-e-v3/04-02-massage-back-studencheskaya-style-e-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-studencheskaya-e-v3/05-02-massage-back-studencheskaya-style-e-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-studencheskaya-e-v3/06-02-massage-back-studencheskaya-style-e-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-studencheskaya-e-v3/07-02-massage-back-studencheskaya-style-e-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-studencheskaya-e-v3/08-02-massage-back-studencheskaya-style-e-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-studencheskaya-e-v3/09-02-massage-back-studencheskaya-style-e-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-studencheskaya-e-v3/10-02-massage-back-studencheskaya-style-e-v3.jpg"/>
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-studencheskaya-e-v3/01-02-massage-back-studencheskaya-style-e-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-studencheskaya-e-v3/02-02-massage-back-studencheskaya-style-e-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-studencheskaya-e-v3/03-02-massage-back-studencheskaya-style-e-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-studencheskaya-e-v3/04-02-massage-back-studencheskaya-style-e-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-studencheskaya-e-v3/05-02-massage-back-studencheskaya-style-e-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-studencheskaya-e-v3/06-02-massage-back-studencheskaya-style-e-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-studencheskaya-e-v3/07-02-massage-back-studencheskaya-style-e-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-studencheskaya-e-v3/08-02-massage-back-studencheskaya-style-e-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-studencheskaya-e-v3/09-02-massage-back-studencheskaya-style-e-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-studencheskaya-e-v3/10-02-massage-back-studencheskaya-style-e-v3.jpg" />
     </Images>
   </Ad>
-
   <Ad>
     <Id>massazh-spiny-kutuzovskaya-f-20260820-v1</Id>
     <Category>Предложение услуг</Category>
@@ -315,16 +311,16 @@
     <Address>Москва, Студенческая улица, 28, корпус 1</Address>
     <Price>2400</Price>
     <Images>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-kutuzovskaya-f-v3/01-03-massage-back-kutuzovskaya-style-f-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-kutuzovskaya-f-v3/02-03-massage-back-kutuzovskaya-style-f-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-kutuzovskaya-f-v3/03-03-massage-back-kutuzovskaya-style-f-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-kutuzovskaya-f-v3/04-03-massage-back-kutuzovskaya-style-f-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-kutuzovskaya-f-v3/05-03-massage-back-kutuzovskaya-style-f-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-kutuzovskaya-f-v3/06-03-massage-back-kutuzovskaya-style-f-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-kutuzovskaya-f-v3/07-03-massage-back-kutuzovskaya-style-f-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-kutuzovskaya-f-v3/08-03-massage-back-kutuzovskaya-style-f-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-kutuzovskaya-f-v3/09-03-massage-back-kutuzovskaya-style-f-v3.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-kutuzovskaya-f-v3/10-03-massage-back-kutuzovskaya-style-f-v3.jpg"/>
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-kutuzovskaya-f-v3/01-03-massage-back-kutuzovskaya-style-f-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-kutuzovskaya-f-v3/02-03-massage-back-kutuzovskaya-style-f-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-kutuzovskaya-f-v3/03-03-massage-back-kutuzovskaya-style-f-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-kutuzovskaya-f-v3/04-03-massage-back-kutuzovskaya-style-f-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-kutuzovskaya-f-v3/05-03-massage-back-kutuzovskaya-style-f-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-kutuzovskaya-f-v3/06-03-massage-back-kutuzovskaya-style-f-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-kutuzovskaya-f-v3/07-03-massage-back-kutuzovskaya-style-f-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-kutuzovskaya-f-v3/08-03-massage-back-kutuzovskaya-style-f-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-kutuzovskaya-f-v3/09-03-massage-back-kutuzovskaya-style-f-v3.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/massage-back-kutuzovskaya-f-v3/10-03-massage-back-kutuzovskaya-style-f-v3.jpg" />
     </Images>
   </Ad>
   <Ad>
@@ -358,19 +354,18 @@
     <Address>Москва, Садовая-Самотёчная улица, 4</Address>
     <Price>4400</Price>
     <Images>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-cvetnoy-g-20260829-v1/01-whisky-wrap-styx-cvetnoy-g-20260829-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-cvetnoy-g-20260829-v1/02-whisky-wrap-styx-cvetnoy-g-20260829-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-cvetnoy-g-20260829-v1/03-whisky-wrap-styx-cvetnoy-g-20260829-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-cvetnoy-g-20260829-v1/04-whisky-wrap-styx-cvetnoy-g-20260829-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-cvetnoy-g-20260829-v1/05-whisky-wrap-styx-cvetnoy-g-20260829-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-cvetnoy-g-20260829-v1/06-whisky-wrap-styx-cvetnoy-g-20260829-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-cvetnoy-g-20260829-v1/07-whisky-wrap-styx-cvetnoy-g-20260829-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-cvetnoy-g-20260829-v1/08-whisky-wrap-styx-cvetnoy-g-20260829-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-cvetnoy-g-20260829-v1/09-whisky-wrap-styx-cvetnoy-g-20260829-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-cvetnoy-g-20260829-v1/10-whisky-wrap-styx-cvetnoy-g-20260829-v1.jpg"/>
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-cvetnoy-g-20260829-v1/01-whisky-wrap-styx-cvetnoy-g-20260829-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-cvetnoy-g-20260829-v1/02-whisky-wrap-styx-cvetnoy-g-20260829-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-cvetnoy-g-20260829-v1/03-whisky-wrap-styx-cvetnoy-g-20260829-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-cvetnoy-g-20260829-v1/04-whisky-wrap-styx-cvetnoy-g-20260829-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-cvetnoy-g-20260829-v1/05-whisky-wrap-styx-cvetnoy-g-20260829-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-cvetnoy-g-20260829-v1/06-whisky-wrap-styx-cvetnoy-g-20260829-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-cvetnoy-g-20260829-v1/07-whisky-wrap-styx-cvetnoy-g-20260829-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-cvetnoy-g-20260829-v1/08-whisky-wrap-styx-cvetnoy-g-20260829-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-cvetnoy-g-20260829-v1/09-whisky-wrap-styx-cvetnoy-g-20260829-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-cvetnoy-g-20260829-v1/10-whisky-wrap-styx-cvetnoy-g-20260829-v1.jpg" />
     </Images>
   </Ad>
-
   <Ad>
     <Id>whisky-wrap-styx-ramenki-h-20260829-v1</Id>
     <Category>Предложение услуг</Category>
@@ -402,19 +397,18 @@
     <Address>Москва, Мичуринский проспект, 16</Address>
     <Price>4400</Price>
     <Images>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-ramenki-h-20260829-v1/01-whisky-wrap-styx-ramenki-h-20260829-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-ramenki-h-20260829-v1/02-whisky-wrap-styx-ramenki-h-20260829-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-ramenki-h-20260829-v1/03-whisky-wrap-styx-ramenki-h-20260829-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-ramenki-h-20260829-v1/04-whisky-wrap-styx-ramenki-h-20260829-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-ramenki-h-20260829-v1/05-whisky-wrap-styx-ramenki-h-20260829-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-ramenki-h-20260829-v1/06-whisky-wrap-styx-ramenki-h-20260829-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-ramenki-h-20260829-v1/07-whisky-wrap-styx-ramenki-h-20260829-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-ramenki-h-20260829-v1/08-whisky-wrap-styx-ramenki-h-20260829-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-ramenki-h-20260829-v1/09-whisky-wrap-styx-ramenki-h-20260829-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-ramenki-h-20260829-v1/10-whisky-wrap-styx-ramenki-h-20260829-v1.jpg"/>
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-ramenki-h-20260829-v1/01-whisky-wrap-styx-ramenki-h-20260829-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-ramenki-h-20260829-v1/02-whisky-wrap-styx-ramenki-h-20260829-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-ramenki-h-20260829-v1/03-whisky-wrap-styx-ramenki-h-20260829-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-ramenki-h-20260829-v1/04-whisky-wrap-styx-ramenki-h-20260829-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-ramenki-h-20260829-v1/05-whisky-wrap-styx-ramenki-h-20260829-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-ramenki-h-20260829-v1/06-whisky-wrap-styx-ramenki-h-20260829-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-ramenki-h-20260829-v1/07-whisky-wrap-styx-ramenki-h-20260829-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-ramenki-h-20260829-v1/08-whisky-wrap-styx-ramenki-h-20260829-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-ramenki-h-20260829-v1/09-whisky-wrap-styx-ramenki-h-20260829-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-ramenki-h-20260829-v1/10-whisky-wrap-styx-ramenki-h-20260829-v1.jpg" />
     </Images>
   </Ad>
-
   <Ad>
     <Id>whisky-wrap-styx-studencheskaya-i-20260829-v1</Id>
     <Category>Предложение услуг</Category>
@@ -452,28 +446,32 @@
     <Address>Москва, Студенческая улица, 28, корпус 1</Address>
     <Price>4400</Price>
     <Images>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-studencheskaya-i-20260829-v1/01-whisky-wrap-styx-studencheskaya-i-20260829-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-studencheskaya-i-20260829-v1/02-whisky-wrap-styx-studencheskaya-i-20260829-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-studencheskaya-i-20260829-v1/03-whisky-wrap-styx-studencheskaya-i-20260829-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-studencheskaya-i-20260829-v1/04-whisky-wrap-styx-studencheskaya-i-20260829-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-studencheskaya-i-20260829-v1/05-whisky-wrap-styx-studencheskaya-i-20260829-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-studencheskaya-i-20260829-v1/06-whisky-wrap-styx-studencheskaya-i-20260829-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-studencheskaya-i-20260829-v1/07-whisky-wrap-styx-studencheskaya-i-20260829-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-studencheskaya-i-20260829-v1/08-whisky-wrap-styx-studencheskaya-i-20260829-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-studencheskaya-i-20260829-v1/09-whisky-wrap-styx-studencheskaya-i-20260829-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-studencheskaya-i-20260829-v1/10-whisky-wrap-styx-studencheskaya-i-20260829-v1.jpg"/>
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-studencheskaya-i-20260829-v1/01-whisky-wrap-styx-studencheskaya-i-20260829-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-studencheskaya-i-20260829-v1/02-whisky-wrap-styx-studencheskaya-i-20260829-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-studencheskaya-i-20260829-v1/03-whisky-wrap-styx-studencheskaya-i-20260829-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-studencheskaya-i-20260829-v1/04-whisky-wrap-styx-studencheskaya-i-20260829-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-studencheskaya-i-20260829-v1/05-whisky-wrap-styx-studencheskaya-i-20260829-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-studencheskaya-i-20260829-v1/06-whisky-wrap-styx-studencheskaya-i-20260829-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-studencheskaya-i-20260829-v1/07-whisky-wrap-styx-studencheskaya-i-20260829-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-studencheskaya-i-20260829-v1/08-whisky-wrap-styx-studencheskaya-i-20260829-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-studencheskaya-i-20260829-v1/09-whisky-wrap-styx-studencheskaya-i-20260829-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/whisky-wrap-styx-studencheskaya-i-20260829-v1/10-whisky-wrap-styx-studencheskaya-i-20260829-v1.jpg" />
     </Images>
   </Ad>
-
   <Ad>
     <Id>cryolipo-studencheskaya-j-20260903-v1</Id>
     <Category>Предложение услуг</Category>
     <ServiceType>Красота</ServiceType>
     <ServiceSubtype>СПА-услуги, массаж</ServiceSubtype>
     <Specialty>Массаж</Specialty>
-    <ClientGender><Option>Мужчины</Option><Option>Женщины</Option></ClientGender>
+    <ClientGender>
+      <Option>Мужчины</Option>
+      <Option>Женщины</Option>
+    </ClientGender>
     <Place>В салоне</Place>
-    <SpecialistGender><Option>Женщины</Option></SpecialistGender>
+    <SpecialistGender>
+      <Option>Женщины</Option>
+    </SpecialistGender>
     <WorkExperience>4–7 лет</WorkExperience>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <Title>Локальная коррекция. Криолиполиз. Студенческая</Title>
@@ -491,28 +489,32 @@
     <Address>Москва, Студенческая улица, 28, корпус 1</Address>
     <Price>2400</Price>
     <Images>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/01-cryolipo-studencheskaya-j-20260903-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/02-cryolipo-studencheskaya-j-20260903-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/03-cryolipo-studencheskaya-j-20260903-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/04-cryolipo-studencheskaya-j-20260903-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/05-cryolipo-studencheskaya-j-20260903-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/06-cryolipo-studencheskaya-j-20260903-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/07-cryolipo-studencheskaya-j-20260903-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/08-cryolipo-studencheskaya-j-20260903-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/09-cryolipo-studencheskaya-j-20260903-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/10-cryolipo-studencheskaya-j-20260903-v1.jpg"/>
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/01-cryolipo-studencheskaya-j-20260903-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/02-cryolipo-studencheskaya-j-20260903-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/03-cryolipo-studencheskaya-j-20260903-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/04-cryolipo-studencheskaya-j-20260903-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/05-cryolipo-studencheskaya-j-20260903-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/06-cryolipo-studencheskaya-j-20260903-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/07-cryolipo-studencheskaya-j-20260903-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/08-cryolipo-studencheskaya-j-20260903-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/09-cryolipo-studencheskaya-j-20260903-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/10-cryolipo-studencheskaya-j-20260903-v1.jpg" />
     </Images>
   </Ad>
-
   <Ad>
     <Id>cryolipo-kutuzovskaya-k-20260903-v1</Id>
     <Category>Предложение услуг</Category>
     <ServiceType>Красота</ServiceType>
     <ServiceSubtype>СПА-услуги, массаж</ServiceSubtype>
     <Specialty>Массаж</Specialty>
-    <ClientGender><Option>Мужчины</Option><Option>Женщины</Option></ClientGender>
+    <ClientGender>
+      <Option>Мужчины</Option>
+      <Option>Женщины</Option>
+    </ClientGender>
     <Place>В салоне</Place>
-    <SpecialistGender><Option>Женщины</Option></SpecialistGender>
+    <SpecialistGender>
+      <Option>Женщины</Option>
+    </SpecialistGender>
     <WorkExperience>4–7 лет</WorkExperience>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <Title>Контуры тела. Криолиполиз. Кутузовский проспект</Title>
@@ -532,28 +534,32 @@
     <Address>Москва, Студенческая улица, 28, корпус 1</Address>
     <Price>2400</Price>
     <Images>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/01-cryolipo-kutuzovskaya-k-20260903-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/02-cryolipo-kutuzovskaya-k-20260903-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/03-cryolipo-kutuzovskaya-k-20260903-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/04-cryolipo-kutuzovskaya-k-20260903-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/05-cryolipo-kutuzovskaya-k-20260903-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/06-cryolipo-kutuzovskaya-k-20260903-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/07-cryolipo-kutuzovskaya-k-20260903-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/08-cryolipo-kutuzovskaya-k-20260903-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/09-cryolipo-kutuzovskaya-k-20260903-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/10-cryolipo-kutuzovskaya-k-20260903-v1.jpg"/>
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/01-cryolipo-kutuzovskaya-k-20260903-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/02-cryolipo-kutuzovskaya-k-20260903-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/03-cryolipo-kutuzovskaya-k-20260903-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/04-cryolipo-kutuzovskaya-k-20260903-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/05-cryolipo-kutuzovskaya-k-20260903-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/06-cryolipo-kutuzovskaya-k-20260903-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/07-cryolipo-kutuzovskaya-k-20260903-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/08-cryolipo-kutuzovskaya-k-20260903-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/09-cryolipo-kutuzovskaya-k-20260903-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/10-cryolipo-kutuzovskaya-k-20260903-v1.jpg" />
     </Images>
   </Ad>
-
   <Ad>
     <Id>whisky-wrap-styx-kutuzovskaya-l-20260903-v1</Id>
     <Category>Предложение услуг</Category>
     <ServiceType>Красота</ServiceType>
     <ServiceSubtype>СПА-услуги, массаж</ServiceSubtype>
     <Specialty>Массаж</Specialty>
-    <ClientGender><Option>Мужчины</Option><Option>Женщины</Option></ClientGender>
+    <ClientGender>
+      <Option>Мужчины</Option>
+      <Option>Женщины</Option>
+    </ClientGender>
     <Place>В салоне</Place>
-    <SpecialistGender><Option>Женщины</Option></SpecialistGender>
+    <SpecialistGender>
+      <Option>Женщины</Option>
+    </SpecialistGender>
     <WorkExperience>4–7 лет</WorkExperience>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <Title>Лёгкость и тонус. Виски-пеленание. Кутузовская</Title>
@@ -573,16 +579,636 @@
     <Address>Москва, Студенческая улица, 28, корпус 1</Address>
     <Price>4400</Price>
     <Images>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/01-whisky-wrap-styx-kutuzovskaya-l-20260903-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/02-whisky-wrap-styx-kutuzovskaya-l-20260903-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/03-whisky-wrap-styx-kutuzovskaya-l-20260903-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/04-whisky-wrap-styx-kutuzovskaya-l-20260903-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/05-whisky-wrap-styx-kutuzovskaya-l-20260903-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/06-whisky-wrap-styx-kutuzovskaya-l-20260903-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/07-whisky-wrap-styx-kutuzovskaya-l-20260903-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/08-whisky-wrap-styx-kutuzovskaya-l-20260903-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/09-whisky-wrap-styx-kutuzovskaya-l-20260903-v1.jpg"/>
-      <Image url="https://telofranchise-netizen.github.io/avito-feed/10-whisky-wrap-styx-kutuzovskaya-l-20260903-v1.jpg"/>
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/01-whisky-wrap-styx-kutuzovskaya-l-20260903-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/02-whisky-wrap-styx-kutuzovskaya-l-20260903-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/03-whisky-wrap-styx-kutuzovskaya-l-20260903-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/04-whisky-wrap-styx-kutuzovskaya-l-20260903-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/05-whisky-wrap-styx-kutuzovskaya-l-20260903-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/06-whisky-wrap-styx-kutuzovskaya-l-20260903-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/07-whisky-wrap-styx-kutuzovskaya-l-20260903-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/08-whisky-wrap-styx-kutuzovskaya-l-20260903-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/09-whisky-wrap-styx-kutuzovskaya-l-20260903-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/10-whisky-wrap-styx-kutuzovskaya-l-20260903-v1.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>general-cvetnoy-20261015-v1</Id>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Красота</ServiceType>
+    <ServiceSubtype>СПА-услуги, массаж</ServiceSubtype>
+    <Specialty>Массаж</Specialty>
+    <ClientGender>
+      <Option>Мужчины</Option>
+      <Option>Женщины</Option>
+    </ClientGender>
+    <WorkExperience>4–7 лет</WorkExperience>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Title>Снимем напряжение и зажимы. Общий массаж</Title>
+    <Description><![CDATA[Поможем снять мышечное напряжение и зажимы, чтобы шея поворачивалась свободнее, плечи перестали тянуть вверх, а спине стало легче.
+
+К вечеру плечи словно каменные, между лопатками тянет, поясница устаёт даже от обычного сидения. Хочется размяться, потянуть шею, сменить положение — но надолго легче не становится.
+
+Так бывает после часов за компьютером, долгого сидения и привычки оставаться в одном положении. Рабочий день закончился, а тело всё ещё напряжено.
+
+На общем массаже проработаем всё тело и уделим больше внимания участкам, которые особенно беспокоят: шее, плечам, спине или пояснице. Задача сеанса — уменьшить ощущение скованности и накопившегося напряжения, чтобы двигаться было комфортнее, а отдыхать — легче.
+
+Первый визит в TELO со скидкой 20%:
+• 55 минут — от 3 360 ₽ вместо 4 200 ₽;
+• 85 минут — от 4 800 ₽ вместо 6 000 ₽.
+Предложение действует для новых гостей студии.
+
+С вами работают мастера с профильной подготовкой и опытом от пяти лет. Глубину и интенсивность подбираем индивидуально: мышцы должны получать необходимую проработку, при этом терпеть чрезмерную боль не нужно.
+
+Принимаем в отдельных кабинетах. Работаем ежедневно с 10:00 до 22:00.
+
+Напишите, где больше всего чувствуется напряжение, — поможем выбрать длительность и время первого сеанса.
+
+Интимные и эротические услуги не оказываем.]]></Description>
+    <Address>Москва, Садовая-Самотёчная улица, 4</Address>
+    <Price>3360</Price>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Place>
+      <Option>В салоне</Option>
+    </Place>
+    <SpecialistGender>
+      <Option>Женщина</Option>
+    </SpecialistGender>
+    <Images>
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-cvetnoy-20261015/01-general-cvetnoy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-cvetnoy-20261015/02-general-cvetnoy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-cvetnoy-20261015/03-general-cvetnoy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-cvetnoy-20261015/04-general-cvetnoy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-cvetnoy-20261015/05-general-cvetnoy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-cvetnoy-20261015/06-general-cvetnoy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-cvetnoy-20261015/07-general-cvetnoy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-cvetnoy-20261015/08-general-cvetnoy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-cvetnoy-20261015/09-general-cvetnoy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-cvetnoy-20261015/10-general-cvetnoy-20261015-v1.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>general-ramenki-20261015-v1</Id>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Красота</ServiceType>
+    <ServiceSubtype>СПА-услуги, массаж</ServiceSubtype>
+    <Specialty>Массаж</Specialty>
+    <ClientGender>
+      <Option>Мужчины</Option>
+      <Option>Женщины</Option>
+    </ClientGender>
+    <WorkExperience>4–7 лет</WorkExperience>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Title>Проработаем зажимы в мышцах. Общий массаж</Title>
+    <Description><![CDATA[Поможем снять мышечное напряжение и зажимы, чтобы шея поворачивалась свободнее, плечи перестали тянуть вверх, а спине стало легче.
+
+К вечеру плечи словно каменные, между лопатками тянет, поясница устаёт даже от обычного сидения. Хочется размяться, потянуть шею, сменить положение — но надолго легче не становится.
+
+Так бывает после часов за компьютером, долгого сидения и привычки оставаться в одном положении. Рабочий день закончился, а тело всё ещё напряжено.
+
+На общем массаже проработаем всё тело и уделим больше внимания участкам, которые особенно беспокоят: шее, плечам, спине или пояснице. Задача сеанса — уменьшить ощущение скованности и накопившегося напряжения, чтобы двигаться было комфортнее, а отдыхать — легче.
+
+Первый визит в TELO со скидкой 20%:
+• 55 минут — от 3 360 ₽ вместо 4 200 ₽;
+• 85 минут — от 4 800 ₽ вместо 6 000 ₽.
+Предложение действует для новых гостей студии.
+
+С вами работают мастера с профильной подготовкой и опытом от пяти лет. Глубину и интенсивность подбираем индивидуально: мышцы должны получать необходимую проработку, при этом терпеть чрезмерную боль не нужно.
+
+Принимаем в отдельных кабинетах. Работаем ежедневно с 10:00 до 22:00.
+
+Напишите, где больше всего чувствуется напряжение, — поможем выбрать длительность и время первого сеанса.
+
+Интимные и эротические услуги не оказываем.]]></Description>
+    <Address>Москва, Мичуринский проспект, 16</Address>
+    <Price>3360</Price>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Place>
+      <Option>В салоне</Option>
+    </Place>
+    <SpecialistGender>
+      <Option>Женщина</Option>
+    </SpecialistGender>
+    <Images>
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-ramenki-20261015/01-general-ramenki-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-ramenki-20261015/02-general-ramenki-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-ramenki-20261015/03-general-ramenki-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-ramenki-20261015/04-general-ramenki-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-ramenki-20261015/05-general-ramenki-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-ramenki-20261015/06-general-ramenki-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-ramenki-20261015/07-general-ramenki-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-ramenki-20261015/08-general-ramenki-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-ramenki-20261015/09-general-ramenki-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-ramenki-20261015/10-general-ramenki-20261015-v1.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>general-studencheskaya-20261015-v1</Id>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Красота</ServiceType>
+    <ServiceSubtype>СПА-услуги, массаж</ServiceSubtype>
+    <Specialty>Массаж</Specialty>
+    <ClientGender>
+      <Option>Мужчины</Option>
+      <Option>Женщины</Option>
+    </ClientGender>
+    <WorkExperience>4–7 лет</WorkExperience>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Title>Снимем мышечное напряжение. Массаж всего тела</Title>
+    <Description><![CDATA[Поможем снять мышечное напряжение и зажимы, чтобы шея поворачивалась свободнее, плечи перестали тянуть вверх, а спине стало легче.
+
+К вечеру плечи словно каменные, между лопатками тянет, поясница устаёт даже от обычного сидения. Хочется размяться, потянуть шею, сменить положение — но надолго легче не становится.
+
+Так бывает после часов за компьютером, долгого сидения и привычки оставаться в одном положении. Рабочий день закончился, а тело всё ещё напряжено.
+
+На общем массаже проработаем всё тело и уделим больше внимания участкам, которые особенно беспокоят: шее, плечам, спине или пояснице. Задача сеанса — уменьшить ощущение скованности и накопившегося напряжения, чтобы двигаться было комфортнее, а отдыхать — легче.
+
+Первый визит в TELO со скидкой 20%:
+• 55 минут — от 3 360 ₽ вместо 4 200 ₽;
+• 85 минут — от 4 800 ₽ вместо 6 000 ₽.
+Предложение действует для новых гостей студии.
+
+С вами работают мастера с профильной подготовкой и опытом от пяти лет. Глубину и интенсивность подбираем индивидуально: мышцы должны получать необходимую проработку, при этом терпеть чрезмерную боль не нужно.
+
+Принимаем в отдельных кабинетах. Работаем ежедневно с 10:00 до 22:00.
+
+Напишите, где больше всего чувствуется напряжение, — поможем выбрать длительность и время первого сеанса.
+
+Интимные и эротические услуги не оказываем.]]></Description>
+    <Address>Москва, Студенческая улица, 28, корпус 1</Address>
+    <Price>3360</Price>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Place>
+      <Option>В салоне</Option>
+    </Place>
+    <SpecialistGender>
+      <Option>Женщина</Option>
+    </SpecialistGender>
+    <Images>
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-studencheskaya-20261015/01-general-studencheskaya-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-studencheskaya-20261015/02-general-studencheskaya-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-studencheskaya-20261015/03-general-studencheskaya-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-studencheskaya-20261015/04-general-studencheskaya-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-studencheskaya-20261015/05-general-studencheskaya-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-studencheskaya-20261015/06-general-studencheskaya-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-studencheskaya-20261015/07-general-studencheskaya-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-studencheskaya-20261015/08-general-studencheskaya-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-studencheskaya-20261015/09-general-studencheskaya-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-studencheskaya-20261015/10-general-studencheskaya-20261015-v1.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>general-kutuzovskiy-20261015-v1</Id>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Красота</ServiceType>
+    <ServiceSubtype>СПА-услуги, массаж</ServiceSubtype>
+    <Specialty>Массаж</Specialty>
+    <ClientGender>
+      <Option>Мужчины</Option>
+      <Option>Женщины</Option>
+    </ClientGender>
+    <WorkExperience>4–7 лет</WorkExperience>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Title>Зажимы и тяжесть в спине. Общий массаж</Title>
+    <Description><![CDATA[Поможем снять мышечное напряжение и зажимы, чтобы шея поворачивалась свободнее, плечи перестали тянуть вверх, а спине стало легче.
+
+К вечеру плечи словно каменные, между лопатками тянет, поясница устаёт даже от обычного сидения. Хочется размяться, потянуть шею, сменить положение — но надолго легче не становится.
+
+Так бывает после часов за компьютером, долгого сидения и привычки оставаться в одном положении. Рабочий день закончился, а тело всё ещё напряжено.
+
+На общем массаже проработаем всё тело и уделим больше внимания участкам, которые особенно беспокоят: шее, плечам, спине или пояснице. Задача сеанса — уменьшить ощущение скованности и накопившегося напряжения, чтобы двигаться было комфортнее, а отдыхать — легче.
+
+Первый визит в TELO со скидкой 20%:
+• 55 минут — от 3 360 ₽ вместо 4 200 ₽;
+• 85 минут — от 4 800 ₽ вместо 6 000 ₽.
+Предложение действует для новых гостей студии.
+
+С вами работают мастера с профильной подготовкой и опытом от пяти лет. Глубину и интенсивность подбираем индивидуально: мышцы должны получать необходимую проработку, при этом терпеть чрезмерную боль не нужно.
+
+Принимаем в отдельных кабинетах. Работаем ежедневно с 10:00 до 22:00.
+
+Напишите, где больше всего чувствуется напряжение, — поможем выбрать длительность и время первого сеанса.
+
+Интимные и эротические услуги не оказываем.]]></Description>
+    <Address>Москва, Студенческая улица, 28, корпус 1</Address>
+    <Price>3360</Price>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Place>
+      <Option>В салоне</Option>
+    </Place>
+    <SpecialistGender>
+      <Option>Женщина</Option>
+    </SpecialistGender>
+    <Images>
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-kutuzovskiy-20261015/01-general-kutuzovskiy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-kutuzovskiy-20261015/02-general-kutuzovskiy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-kutuzovskiy-20261015/03-general-kutuzovskiy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-kutuzovskiy-20261015/04-general-kutuzovskiy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-kutuzovskiy-20261015/05-general-kutuzovskiy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-kutuzovskiy-20261015/06-general-kutuzovskiy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-kutuzovskiy-20261015/07-general-kutuzovskiy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-kutuzovskiy-20261015/08-general-kutuzovskiy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-kutuzovskiy-20261015/09-general-kutuzovskiy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/general-kutuzovskiy-20261015/10-general-kutuzovskiy-20261015-v1.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>anticellulite-cvetnoy-20261015-v1</Id>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Красота</ServiceType>
+    <ServiceSubtype>СПА-услуги, массаж</ServiceSubtype>
+    <Specialty>Массаж</Specialty>
+    <ClientGender>
+      <Option>Мужчины</Option>
+      <Option>Женщины</Option>
+    </ClientGender>
+    <WorkExperience>4–7 лет</WorkExperience>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Title>Уменьшение объёмов. Антицеллюлитный массаж</Title>
+    <Description><![CDATA[Более ровная кожа, подтянутый вид и уменьшение объёмов — на эти задачи направлен антицеллюлитный массаж в TELO.
+
+На сеансе сочетаем корректирующие и лимфодренажные приёмы: работаем с рельефом кожи, отёчностью и ощущением плотности тканей. Уделяем внимание вашим приоритетным зонам — бёдрам, ягодицам, животу. Глубину проработки подбираем индивидуально, без необходимости терпеть чрезмерную боль.
+
+Первый визит со скидкой 20% для новых гостей:
+• 55 минут — от 3 360 ₽ вместо 4 200 ₽;
+• 85 минут — от 4 800 ₽ вместо 6 000 ₽.
+
+Для усиления эффекта в наших филиалах можно дополнить массаж профессиональной косметикой STYX, h.q.b.m. или средствами RL. Мастер подберёт средство под вашу задачу. Дополнение оплачивается отдельно.
+
+Запишитесь на первый сеанс прямо сейчас и получите скидку 20%. Нажмите «Написать» — подберём удобное время и длительность под ваши зоны.
+
+Интимные и эротические услуги не оказываем.
+]]></Description>
+    <Address>Москва, Садовая-Самотёчная улица, 4</Address>
+    <Price>3360</Price>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Place>
+      <Option>В салоне</Option>
+    </Place>
+    <SpecialistGender>
+      <Option>Женщина</Option>
+    </SpecialistGender>
+    <Images>
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-cvetnoy-20261015/01-anticellulite-cvetnoy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-cvetnoy-20261015/02-anticellulite-cvetnoy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-cvetnoy-20261015/03-anticellulite-cvetnoy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-cvetnoy-20261015/04-anticellulite-cvetnoy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-cvetnoy-20261015/05-anticellulite-cvetnoy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-cvetnoy-20261015/06-anticellulite-cvetnoy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-cvetnoy-20261015/07-anticellulite-cvetnoy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-cvetnoy-20261015/08-anticellulite-cvetnoy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-cvetnoy-20261015/09-anticellulite-cvetnoy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-cvetnoy-20261015/10-anticellulite-cvetnoy-20261015-v1.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>anticellulite-ramenki-20261015-v1</Id>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Красота</ServiceType>
+    <ServiceSubtype>СПА-услуги, массаж</ServiceSubtype>
+    <Specialty>Массаж</Specialty>
+    <ClientGender>
+      <Option>Мужчины</Option>
+      <Option>Женщины</Option>
+    </ClientGender>
+    <WorkExperience>4–7 лет</WorkExperience>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Title>Тонус тела. Антицеллюлитный массаж в Раменках</Title>
+    <Description><![CDATA[Более ровная кожа, подтянутый вид и уменьшение объёмов — на эти задачи направлен антицеллюлитный массаж в TELO.
+
+На сеансе сочетаем корректирующие и лимфодренажные приёмы: работаем с рельефом кожи, отёчностью и ощущением плотности тканей. Уделяем внимание вашим приоритетным зонам — бёдрам, ягодицам, животу. Глубину проработки подбираем индивидуально, без необходимости терпеть чрезмерную боль.
+
+Первый визит со скидкой 20% для новых гостей:
+• 55 минут — от 3 360 ₽ вместо 4 200 ₽;
+• 85 минут — от 4 800 ₽ вместо 6 000 ₽.
+
+Для усиления эффекта в наших филиалах можно дополнить массаж профессиональной косметикой STYX, h.q.b.m. или средствами RL. Мастер подберёт средство под вашу задачу. Дополнение оплачивается отдельно.
+
+Запишитесь на первый сеанс прямо сейчас и получите скидку 20%. Нажмите «Написать» — подберём удобное время и длительность под ваши зоны.
+
+Интимные и эротические услуги не оказываем.
+]]></Description>
+    <Address>Москва, Мичуринский проспект, 16</Address>
+    <Price>3360</Price>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Place>
+      <Option>В салоне</Option>
+    </Place>
+    <SpecialistGender>
+      <Option>Женщина</Option>
+    </SpecialistGender>
+    <Images>
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-ramenki-20261015/01-anticellulite-ramenki-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-ramenki-20261015/02-anticellulite-ramenki-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-ramenki-20261015/03-anticellulite-ramenki-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-ramenki-20261015/04-anticellulite-ramenki-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-ramenki-20261015/05-anticellulite-ramenki-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-ramenki-20261015/06-anticellulite-ramenki-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-ramenki-20261015/07-anticellulite-ramenki-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-ramenki-20261015/08-anticellulite-ramenki-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-ramenki-20261015/09-anticellulite-ramenki-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-ramenki-20261015/10-anticellulite-ramenki-20261015-v1.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>anticellulite-studencheskaya-20261015-v1</Id>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Красота</ServiceType>
+    <ServiceSubtype>СПА-услуги, массаж</ServiceSubtype>
+    <Specialty>Массаж</Specialty>
+    <ClientGender>
+      <Option>Мужчины</Option>
+      <Option>Женщины</Option>
+    </ClientGender>
+    <WorkExperience>4–7 лет</WorkExperience>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Title>Ровный рельеф. Антицеллюлитный массаж</Title>
+    <Description><![CDATA[Более ровная кожа, подтянутый вид и уменьшение объёмов — на эти задачи направлен антицеллюлитный массаж в TELO.
+
+На сеансе сочетаем корректирующие и лимфодренажные приёмы: работаем с рельефом кожи, отёчностью и ощущением плотности тканей. Уделяем внимание вашим приоритетным зонам — бёдрам, ягодицам, животу. Глубину проработки подбираем индивидуально, без необходимости терпеть чрезмерную боль.
+
+Первый визит со скидкой 20% для новых гостей:
+• 55 минут — от 3 360 ₽ вместо 4 200 ₽;
+• 85 минут — от 4 800 ₽ вместо 6 000 ₽.
+
+Для усиления эффекта в наших филиалах можно дополнить массаж профессиональной косметикой STYX, h.q.b.m. или средствами RL. Мастер подберёт средство под вашу задачу. Дополнение оплачивается отдельно.
+
+Запишитесь на первый сеанс прямо сейчас и получите скидку 20%. Нажмите «Написать» — подберём удобное время и длительность под ваши зоны.
+
+Интимные и эротические услуги не оказываем.
+]]></Description>
+    <Address>Москва, Студенческая улица, 28, корпус 1</Address>
+    <Price>3360</Price>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Place>
+      <Option>В салоне</Option>
+    </Place>
+    <SpecialistGender>
+      <Option>Женщина</Option>
+    </SpecialistGender>
+    <Images>
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-studencheskaya-20261015/01-anticellulite-studencheskaya-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-studencheskaya-20261015/02-anticellulite-studencheskaya-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-studencheskaya-20261015/03-anticellulite-studencheskaya-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-studencheskaya-20261015/04-anticellulite-studencheskaya-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-studencheskaya-20261015/05-anticellulite-studencheskaya-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-studencheskaya-20261015/06-anticellulite-studencheskaya-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-studencheskaya-20261015/07-anticellulite-studencheskaya-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-studencheskaya-20261015/08-anticellulite-studencheskaya-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-studencheskaya-20261015/09-anticellulite-studencheskaya-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-studencheskaya-20261015/10-anticellulite-studencheskaya-20261015-v1.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>anticellulite-kutuzovskiy-20261015-v1</Id>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Красота</ServiceType>
+    <ServiceSubtype>СПА-услуги, массаж</ServiceSubtype>
+    <Specialty>Массаж</Specialty>
+    <ClientGender>
+      <Option>Мужчины</Option>
+      <Option>Женщины</Option>
+    </ClientGender>
+    <WorkExperience>4–7 лет</WorkExperience>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Title>Контуры тела. Антицеллюлитный массаж</Title>
+    <Description><![CDATA[Более ровная кожа, подтянутый вид и уменьшение объёмов — на эти задачи направлен антицеллюлитный массаж в TELO.
+
+На сеансе сочетаем корректирующие и лимфодренажные приёмы: работаем с рельефом кожи, отёчностью и ощущением плотности тканей. Уделяем внимание вашим приоритетным зонам — бёдрам, ягодицам, животу. Глубину проработки подбираем индивидуально, без необходимости терпеть чрезмерную боль.
+
+Первый визит со скидкой 20% для новых гостей:
+• 55 минут — от 3 360 ₽ вместо 4 200 ₽;
+• 85 минут — от 4 800 ₽ вместо 6 000 ₽.
+
+Для усиления эффекта в наших филиалах можно дополнить массаж профессиональной косметикой STYX, h.q.b.m. или средствами RL. Мастер подберёт средство под вашу задачу. Дополнение оплачивается отдельно.
+
+Запишитесь на первый сеанс прямо сейчас и получите скидку 20%. Нажмите «Написать» — подберём удобное время и длительность под ваши зоны.
+
+Интимные и эротические услуги не оказываем.
+]]></Description>
+    <Address>Москва, Студенческая улица, 28, корпус 1</Address>
+    <Price>3360</Price>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Place>
+      <Option>В салоне</Option>
+    </Place>
+    <SpecialistGender>
+      <Option>Женщина</Option>
+    </SpecialistGender>
+    <Images>
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-kutuzovskiy-20261015/01-anticellulite-kutuzovskiy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-kutuzovskiy-20261015/02-anticellulite-kutuzovskiy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-kutuzovskiy-20261015/03-anticellulite-kutuzovskiy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-kutuzovskiy-20261015/04-anticellulite-kutuzovskiy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-kutuzovskiy-20261015/05-anticellulite-kutuzovskiy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-kutuzovskiy-20261015/06-anticellulite-kutuzovskiy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-kutuzovskiy-20261015/07-anticellulite-kutuzovskiy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-kutuzovskiy-20261015/08-anticellulite-kutuzovskiy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-kutuzovskiy-20261015/09-anticellulite-kutuzovskiy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/anticellulite-kutuzovskiy-20261015/10-anticellulite-kutuzovskiy-20261015-v1.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>lymphatic-cvetnoy-20261015-v1</Id>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Красота</ServiceType>
+    <ServiceSubtype>СПА-услуги, массаж</ServiceSubtype>
+    <Specialty>Массаж</Specialty>
+    <ClientGender>
+      <Option>Мужчины</Option>
+      <Option>Женщины</Option>
+    </ClientGender>
+    <WorkExperience>4–7 лет</WorkExperience>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Title>Уменьшение отёчности. Лимфодренажный массаж</Title>
+    <Description><![CDATA[Лёгкость в ногах, уменьшение отёчности и ощущения тяжести — на эти задачи направлен лимфодренажный массаж в TELO.
+
+К вечеру ноги словно налиты, обувь сидит теснее, а после долгого сидения или дня на ногах хочется быстрее лечь и вытянуться. На сеансе используем мягкие лимфодренажные приёмы и уделяем внимание вашим приоритетным зонам. Работа направлена на уменьшение ощущения отёчности и скованности — чтобы телу было комфортнее, а движения ощущались легче.
+
+Первый визит со скидкой 20% для новых гостей:
+• 55 минут — от 3 360 ₽ вместо 4 200 ₽;
+• 85 минут — от 4 800 ₽ вместо 6 000 ₽.
+
+Перед началом мастер уточнит ваш запрос и возможные ограничения, подберёт комфортную интенсивность. При выраженных или внезапных отёках сначала нужна консультация врача.
+
+Запишитесь на первый сеанс прямо сейчас и получите скидку 20%. Нажмите «Написать» — подберём длительность и удобное время.
+
+Интимные и эротические услуги не оказываем.]]></Description>
+    <Address>Москва, Садовая-Самотёчная улица, 4</Address>
+    <Price>3360</Price>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Place>
+      <Option>В салоне</Option>
+    </Place>
+    <SpecialistGender>
+      <Option>Женщина</Option>
+    </SpecialistGender>
+    <Images>
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-cvetnoy-20261015/01-lymphatic-cvetnoy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-cvetnoy-20261015/02-lymphatic-cvetnoy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-cvetnoy-20261015/03-lymphatic-cvetnoy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-cvetnoy-20261015/04-lymphatic-cvetnoy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-cvetnoy-20261015/05-lymphatic-cvetnoy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-cvetnoy-20261015/06-lymphatic-cvetnoy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-cvetnoy-20261015/07-lymphatic-cvetnoy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-cvetnoy-20261015/08-lymphatic-cvetnoy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-cvetnoy-20261015/09-lymphatic-cvetnoy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-cvetnoy-20261015/10-lymphatic-cvetnoy-20261015-v1.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>lymphatic-ramenki-20261015-v1</Id>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Красота</ServiceType>
+    <ServiceSubtype>СПА-услуги, массаж</ServiceSubtype>
+    <Specialty>Массаж</Specialty>
+    <ClientGender>
+      <Option>Мужчины</Option>
+      <Option>Женщины</Option>
+    </ClientGender>
+    <WorkExperience>4–7 лет</WorkExperience>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Title>Лёгкость в ногах. Лимфодренажный массаж</Title>
+    <Description><![CDATA[Лимфодренажный массаж в Раменках для уменьшения отёчности и ощущения налитых, тяжёлых ног.
+
+Долгий день заканчивается, а тяжесть в теле мешает почувствовать отдых. Хочется больше лёгкости и комфорта, без излишне сильного воздействия. На сеансе используем мягкие лимфодренажные приёмы и уделяем внимание вашим приоритетным зонам. Работа направлена на уменьшение ощущения отёчности и скованности — чтобы телу было комфортнее, а движения ощущались легче.
+
+Первый визит со скидкой 20% для новых гостей:
+• 55 минут — от 3 360 ₽ вместо 4 200 ₽;
+• 85 минут — от 4 800 ₽ вместо 6 000 ₽.
+
+Перед началом мастер уточнит ваш запрос и возможные ограничения, подберёт комфортную интенсивность. При выраженных или внезапных отёках сначала нужна консультация врача.
+
+Запишитесь на первый сеанс прямо сейчас и получите скидку 20%. Нажмите «Написать» — подберём длительность и удобное время.
+
+Интимные и эротические услуги не оказываем.]]></Description>
+    <Address>Москва, Мичуринский проспект, 16</Address>
+    <Price>3360</Price>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Place>
+      <Option>В салоне</Option>
+    </Place>
+    <SpecialistGender>
+      <Option>Женщина</Option>
+    </SpecialistGender>
+    <Images>
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-ramenki-20261015/01-lymphatic-ramenki-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-ramenki-20261015/02-lymphatic-ramenki-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-ramenki-20261015/03-lymphatic-ramenki-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-ramenki-20261015/04-lymphatic-ramenki-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-ramenki-20261015/05-lymphatic-ramenki-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-ramenki-20261015/06-lymphatic-ramenki-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-ramenki-20261015/07-lymphatic-ramenki-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-ramenki-20261015/08-lymphatic-ramenki-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-ramenki-20261015/09-lymphatic-ramenki-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-ramenki-20261015/10-lymphatic-ramenki-20261015-v1.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>lymphatic-studencheskaya-20261015-v1</Id>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Красота</ServiceType>
+    <ServiceSubtype>СПА-услуги, массаж</ServiceSubtype>
+    <Specialty>Массаж</Specialty>
+    <ClientGender>
+      <Option>Мужчины</Option>
+      <Option>Женщины</Option>
+    </ClientGender>
+    <WorkExperience>4–7 лет</WorkExperience>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Title>Лёгкость тела. Лимфодренажный массаж</Title>
+    <Description><![CDATA[Уменьшение отёчности и больше лёгкости в теле — лимфодренажный массаж на Студенческой.
+
+Когда после нескольких часов сидя тело ощущается тяжёлым, а ноги к вечеру словно налиты, хочется снять эту нагрузку и двигаться комфортнее. На сеансе используем мягкие лимфодренажные приёмы и уделяем внимание вашим приоритетным зонам. Работа направлена на уменьшение ощущения отёчности и скованности — чтобы телу было комфортнее, а движения ощущались легче.
+
+Первый визит со скидкой 20% для новых гостей:
+• 55 минут — от 3 360 ₽ вместо 4 200 ₽;
+• 85 минут — от 4 800 ₽ вместо 6 000 ₽.
+
+Перед началом мастер уточнит ваш запрос и возможные ограничения, подберёт комфортную интенсивность. При выраженных или внезапных отёках сначала нужна консультация врача.
+
+Запишитесь на первый сеанс прямо сейчас и получите скидку 20%. Нажмите «Написать» — подберём длительность и удобное время.
+
+Интимные и эротические услуги не оказываем.]]></Description>
+    <Address>Москва, Студенческая улица, 28, корпус 1</Address>
+    <Price>3360</Price>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Place>
+      <Option>В салоне</Option>
+    </Place>
+    <SpecialistGender>
+      <Option>Женщина</Option>
+    </SpecialistGender>
+    <Images>
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-studencheskaya-20261015/01-lymphatic-studencheskaya-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-studencheskaya-20261015/02-lymphatic-studencheskaya-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-studencheskaya-20261015/03-lymphatic-studencheskaya-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-studencheskaya-20261015/04-lymphatic-studencheskaya-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-studencheskaya-20261015/05-lymphatic-studencheskaya-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-studencheskaya-20261015/06-lymphatic-studencheskaya-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-studencheskaya-20261015/07-lymphatic-studencheskaya-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-studencheskaya-20261015/08-lymphatic-studencheskaya-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-studencheskaya-20261015/09-lymphatic-studencheskaya-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-studencheskaya-20261015/10-lymphatic-studencheskaya-20261015-v1.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>lymphatic-kutuzovskiy-20261015-v1</Id>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Красота</ServiceType>
+    <ServiceSubtype>СПА-услуги, массаж</ServiceSubtype>
+    <Specialty>Массаж</Specialty>
+    <ClientGender>
+      <Option>Мужчины</Option>
+      <Option>Женщины</Option>
+    </ClientGender>
+    <WorkExperience>4–7 лет</WorkExperience>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Title>Уменьшение тяжести. Лимфодренажный массаж</Title>
+    <Description><![CDATA[Лимфодренажный массаж рядом с Кутузовским проспектом для ощущения лёгкости и уменьшения отёчности.
+
+Если к концу дня привычная обувь становится теснее, а в ногах появляется тяжесть, хочется бережного ухода и большего комфорта в движении. На сеансе используем мягкие лимфодренажные приёмы и уделяем внимание вашим приоритетным зонам. Работа направлена на уменьшение ощущения отёчности и скованности — чтобы телу было комфортнее, а движения ощущались легче.
+
+Первый визит со скидкой 20% для новых гостей:
+• 55 минут — от 3 360 ₽ вместо 4 200 ₽;
+• 85 минут — от 4 800 ₽ вместо 6 000 ₽.
+
+Перед началом мастер уточнит ваш запрос и возможные ограничения, подберёт комфортную интенсивность. При выраженных или внезапных отёках сначала нужна консультация врача.
+
+Запишитесь на первый сеанс прямо сейчас и получите скидку 20%. Нажмите «Написать» — подберём длительность и удобное время.
+
+Интимные и эротические услуги не оказываем.]]></Description>
+    <Address>Москва, Студенческая улица, 28, корпус 1</Address>
+    <Price>3360</Price>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Place>
+      <Option>В салоне</Option>
+    </Place>
+    <SpecialistGender>
+      <Option>Женщина</Option>
+    </SpecialistGender>
+    <Images>
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-kutuzovskiy-20261015/01-lymphatic-kutuzovskiy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-kutuzovskiy-20261015/02-lymphatic-kutuzovskiy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-kutuzovskiy-20261015/03-lymphatic-kutuzovskiy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-kutuzovskiy-20261015/04-lymphatic-kutuzovskiy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-kutuzovskiy-20261015/05-lymphatic-kutuzovskiy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-kutuzovskiy-20261015/06-lymphatic-kutuzovskiy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-kutuzovskiy-20261015/07-lymphatic-kutuzovskiy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-kutuzovskiy-20261015/08-lymphatic-kutuzovskiy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-kutuzovskiy-20261015/09-lymphatic-kutuzovskiy-20261015-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-kutuzovskiy-20261015/10-lymphatic-kutuzovskiy-20261015-v1.jpg" />
     </Images>
   </Ad>
 </Ads>
