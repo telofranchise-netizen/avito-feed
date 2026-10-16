@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <Ads target="Avito.ru" formatVersion="3">
   <Ad>
     <Id>massazh-spiny-cvetnoy-20260729-v2</Id>
@@ -1209,6 +1209,73 @@
       <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-kutuzovskiy-20261015/08-lymphatic-kutuzovskiy-20261015-v1.jpg" />
       <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-kutuzovskiy-20261015/09-lymphatic-kutuzovskiy-20261015-v1.jpg" />
       <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lymphatic-kutuzovskiy-20261015/10-lymphatic-kutuzovskiy-20261015-v1.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>lpg-training-cvetnoy-20261016-v1</Id>
+    <AvitoId>7540794182</AvitoId>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Обучение, курсы</ServiceType>
+    <ServiceSubtype>Профессии и бизнес</ServiceSubtype>
+    <Speciality>Красота, здоровье</Speciality>
+    <Direction>Массаж</Direction>
+    <Title>Обучение LPG-массажу. Цветной бульвар</Title>
+    <Description><![CDATA[Освойте работу на французских аппаратах LPG — обучение в нашей студии у метро «Цветной бульвар» или с выездом к вам в пределах МКАД. Формат согласуем под ваш запрос.
+
+В нашей студии — 18 000 ₽.
+С выездом в пределах МКАД — 20 000 ₽ за одного человека.
+
+В студии обучение проходит на LPG Keymodule 2.
+
+Нажмите «Написать» — обсудим ваш запрос, отправим программу и согласуем дату обучения.]]></Description>
+    <Address>Москва, Садовая-Самотёчная улица, 4</Address>
+    <Price>18000</Price>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Place>
+      <Option>У себя</Option>
+      <Option>У клиента</Option>
+    </Place>
+    <Images>
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lpg-training-cvetnoy-20261016/01-cover-approved-v1.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lpg-training-cvetnoy-20261016/02-lpg-procedure.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lpg-training-cvetnoy-20261016/03-interior.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lpg-training-cvetnoy-20261016/04-interior.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lpg-training-cvetnoy-20261016/05-interior.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>lpg-training-studencheskaya-20261016-v1</Id>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Обучение, курсы</ServiceType>
+    <ServiceSubtype>Профессии и бизнес</ServiceSubtype>
+    <Speciality>Красота, здоровье</Speciality>
+    <Direction>Массаж</Direction>
+    <Title>Обучение LPG-массажу. Студенческая</Title>
+    <Description><![CDATA[Освойте работу на французских аппаратах LPG — обучение в нашей студии у метро «Студенческая» или с выездом к вам в пределах МКАД. Формат согласуем под ваш запрос.
+
+В нашей студии — 18 000 ₽.
+С выездом в пределах МКАД — 20 000 ₽ за одного человека.
+
+В студии обучение проходит на LPG Keymodule 2.
+
+Нажмите «Написать» — обсудим ваш запрос, отправим программу и согласуем дату обучения.]]></Description>
+    <Address>Москва, Студенческая улица, 28к1</Address>
+    <Price>18000</Price>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Place>
+      <Option>У себя</Option>
+      <Option>У клиента</Option>
+    </Place>
+    <Images>
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lpg-training-studencheskaya-20261016/01-cover-approved-v2.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lpg-training-studencheskaya-20261016/02-lpg-procedure.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lpg-training-studencheskaya-20261016/03-interior.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lpg-training-studencheskaya-20261016/04-interior.jpg" />
+      <Image url="https://telofranchise-netizen.github.io/avito-feed/photos/lpg-training-studencheskaya-20261016/05-interior.jpg" />
     </Images>
   </Ad>
 </Ads>
